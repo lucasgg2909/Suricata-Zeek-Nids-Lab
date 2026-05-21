@@ -48,21 +48,21 @@ suricata-zeek-nids-lab/
 
 ├── commands/
 
-│   ├── 01\_network\_validation.md
+│   ├── 01_network_validation.md
 
-│   ├── 02\_traffic\_generation.md
+│   ├── 02_traffic_generation.md
 
-│   ├── 03\_suricata\_commands.md
+│   ├── 03_suricata_commands.md
 
-│   ├── 04\_zeek\_commands.md
+│   ├── 04_zeek_commands.md
 
-│   └── 05\_dataset\_backup.md
+│   └── 05_dataset_backup.md
 
-├── dataset\_structure/
+├── dataset_structure/
 
-│   └── tfg\_results\_structure.txt
+│   └── tfg_results_structure.txt
 
 └── notes/
 
-&#x20;   └── experiment\_overview.md
+   └── experiment\_overview.md
 
