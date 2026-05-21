@@ -1,6 +1,6 @@
 # Suricata and Zeek NIDS/NDR Lab
 
-This repository contains the supporting technical documentation for my dissertation project comparing Suricata and Zeek in a controlled virtual NIDS/NDR lab environment.
+This repository contains the main technical notes and commands from my dissertation project, where I compared Suricata and Zeek in a controlled virtual NIDS/NDR lab.
 
 The practical lab was built using VirtualBox and included:
 
