@@ -1,0 +1,24 @@
+tfg-results/
+├── pcaps/
+│   ├── nmap_scan_test/
+│   ├── http_benign/
+│   ├── ssh_failed_login/
+│   ├── ssh_successful_login/
+│   ├── smb_enum/
+│   └── ftp_login/
+├── suricata/
+│   ├── nmap_real_rules/
+│   ├── http_benign/
+│   ├── ssh_failed_login/
+│   ├── ssh_successful_login/
+│   ├── smb_enum/
+│   └── ftp_login/
+├── zeek/
+│   ├── nmap_scan_test/
+│   ├── http_benign/
+│   ├── ssh_failed_login/
+│   ├── ssh_successful_login/
+│   ├── smb_enum/
+│   └── ftp_login/
+└── summaries/
+    └── experiment_overview.tsv
